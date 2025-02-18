@@ -27,4 +27,5 @@ This repository provides a structured lesson on JavaScript fundamentals, includi
 - [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [JavaScript String Methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
 - [JavaScript Template Literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
-- [JavaScript Console API](https://developer.mozilla.org/en-US/docs/Web/API/Console)
+- [Javascript document.write()](https://www.w3schools.com/jsref/met_doc_write.asp)
+- [Javascript String Methods](https://www.w3schools.com/js/js_string_methods.asp)
